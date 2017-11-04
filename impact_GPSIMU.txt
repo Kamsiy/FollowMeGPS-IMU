@@ -1,0 +1,15 @@
+do we need to manage the GPS/IMU data for both the chase and lead cars
+
+finding out control's expectations
+
+are we chasing based on GPS data, vision data, or both?
+
+correct GPS data based on IMU data
+
+What is the unit standard for the team?
+
+is carrot "car rotation"?
+
+Is there a "driver" for your code?
+
+What's our input? What's our output?
